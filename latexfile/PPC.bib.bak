@@ -1,0 +1,270 @@
+% Encoding: UTF-8
+
+@Book{RubinD1987,
+  title         = {Multiple Imputation for Nonresponse in Surveys},
+  publisher     = {John Wiley and Sons},
+  year          = {1987},
+  author        = {Rubin, Donald B},
+  address       = {New York},
+  date-added    = {2010-02-25 12:13:03 +0100},
+  date-modified = {2010-05-02 19:43:12 +0200},
+  keywords      = {Multiple, imputation, MI, rubin},
+}
+
+@Article{he2012diagnosing,
+  author    = {He, Yulei and Zaslavsky, Alan M},
+  journal   = {Statistics in medicine},
+  title     = {Diagnosing imputation models by applying target analyses to posterior replicates of completed data},
+  year      = {2012},
+  number    = {1},
+  pages     = {1--18},
+  volume    = {31},
+  publisher = {Wiley Online Library},
+}
+
+@Article{gelman2005multiple,
+  author    = {Gelman, Andrew and Van Mechelen, Iven and Verbeke, Geert and Heitjan, Daniel F and Meulders, Michel},
+  journal   = {Biometrics},
+  title     = {Multiple imputation for model checking: completed-data plots with missing and latent data},
+  year      = {2005},
+  number    = {1},
+  pages     = {74--85},
+  volume    = {61},
+  publisher = {Wiley Online Library},
+}
+
+@Book{Buuren2018,
+  title     = {Flexible Imputation of Missing Data, Second Edition},
+  publisher = {Chapman and Hall/{CRC}},
+  year      = {2018},
+  author    = {Stef van Buuren},
+}
+
+@Article{abayomi2008diagnostics,
+  author    = {Abayomi, Kobi and Gelman, Andrew and Levy, Marc},
+  journal   = {Journal of the Royal Statistical Society: Series C (Applied Statistics)},
+  title     = {Diagnostics for multivariate imputations},
+  year      = {2008},
+  number    = {3},
+  pages     = {273--291},
+  volume    = {57},
+  publisher = {Wiley Online Library},
+}
+
+@Article{bondarenko2016graphical,
+  author    = {Bondarenko, Irina and Raghunathan, Trivellore},
+  journal   = {Statistics in medicine},
+  title     = {Graphical and numerical diagnostic tools to assess suitability of multiple imputations and imputation models},
+  year      = {2016},
+  number    = {17},
+  pages     = {3007--3020},
+  volume    = {35},
+  publisher = {Wiley Online Library},
+}
+
+@Article{white2011multiple,
+  author    = {White, Ian R and Royston, Patrick and Wood, Angela M},
+  journal   = {Statistics in medicine},
+  title     = {Multiple imputation using chained equations: issues and guidance for practice},
+  year      = {2011},
+  number    = {4},
+  pages     = {377--399},
+  volume    = {30},
+  publisher = {Wiley Online Library},
+}
+
+@Article{nguyen2017model,
+  author    = {Nguyen, Cattram D and Carlin, John B and Lee, Katherine J},
+  journal   = {Emerging themes in epidemiology},
+  title     = {Model checking in multiple imputation: an overview and case study},
+  year      = {2017},
+  number    = {1},
+  pages     = {8},
+  volume    = {14},
+  publisher = {Springer},
+}
+
+@Article{nguyen2015posterior,
+  author    = {Nguyen, Cattram D and Lee, Katherine J and Carlin, John B},
+  journal   = {Biometrical Journal},
+  title     = {Posterior predictive checking of multiple imputation models},
+  year      = {2015},
+  number    = {4},
+  pages     = {676--694},
+  volume    = {57},
+  publisher = {Wiley Online Library},
+}
+
+@Article{gelman1998not,
+  author    = {Gelman, Andrew and King, Gary and Liu, Chuanhai},
+  journal   = {Journal of the American Statistical Association},
+  title     = {Not asked and not answered: Multiple imputation for multiple surveys},
+  year      = {1998},
+  number    = {443},
+  pages     = {846--857},
+  volume    = {93},
+  publisher = {Taylor \& Francis Group},
+}
+
+@Article{hoogland2020handling,
+  author    = {Hoogland, Jeroen and van Barreveld, Marit and Debray, Thomas PA and Reitsma, Johannes B and Verstraelen, Tom E and Dijkgraaf, Marcel GW and Zwinderman, Aeilko H},
+  journal   = {Statistics in medicine},
+  title     = {Handling missing predictor values when validating and applying a prediction model to new patients},
+  year      = {2020},
+  number    = {25},
+  pages     = {3591--3607},
+  volume    = {39},
+  publisher = {Wiley Online Library},
+}
+
+@Article{van2007multiple,
+  author    = {Van Buuren, Stef},
+  journal   = {Statistical methods in medical research},
+  title     = {Multiple imputation of discrete and continuous data by fully conditional specification},
+  year      = {2007},
+  number    = {3},
+  pages     = {219--242},
+  volume    = {16},
+  publisher = {Sage Publications Sage UK: London, England},
+}
+
+@Article{buuren2010mice,
+  author    = {Buuren, S van and Groothuis-Oudshoorn, Karin},
+  journal   = {Journal of statistical software},
+  title     = {mice: Multivariate imputation by chained equations in R},
+  year      = {2010},
+  pages     = {1--68},
+  publisher = {University of California, Los Angeles},
+}
+
+@Book{de2011handbook,
+  author    = {De Waal, Ton and Pannekoek, Jeroen and Scholtus, Sander},
+  publisher = {John Wiley \& Sons},
+  title     = {Handbook of statistical data editing and imputation},
+  year      = {2011},
+  volume    = {563},
+}
+
+@Article{siddique2008multiple,
+  author    = {Siddique, Juned and Belin, Thomas R},
+  journal   = {Statistics in medicine},
+  title     = {Multiple imputation using an iterative hot-deck with distance-based donor selection},
+  year      = {2008},
+  number    = {1},
+  pages     = {83--102},
+  volume    = {27},
+  publisher = {Wiley Online Library},
+}
+
+@Article{su2011multiple,
+  author = {Su, Yu-Sung and Gelman, Andrew E and Hill, Jennifer and Yajima, Masanao},
+  title  = {Multiple imputation with diagnostics (mi) in R: Opening windows into the black box},
+  year   = {2011},
+}
+
+@Article{vink2015partioned,
+  author  = {Vink, Gerko and Lazendic, Goran and van Buuren, Stef},
+  journal = {Psychological Test and Assessment Modeling},
+  title   = {Partioned predictive mean matching as a large data multilevel imputation technique.},
+  year    = {2015},
+  number  = {4},
+  pages   = {577--594},
+  volume  = {57},
+}
+
+@Article{vink2014predictive,
+  author    = {Vink, Gerko and Frank, Laurence E and Pannekoek, Jeroen and Van Buuren, Stef},
+  journal   = {Statistica Neerlandica},
+  title     = {Predictive mean matching imputation of semicontinuous variables},
+  year      = {2014},
+  number    = {1},
+  pages     = {61--90},
+  volume    = {68},
+  publisher = {Wiley Online Library},
+}
+
+@Article{yu2007evaluation,
+  author    = {Yu, L-M and Burton, Andrea and Rivero-Arias, Oliver},
+  journal   = {Statistical Methods in Medical Research},
+  title     = {Evaluation of software for multiple imputation of semi-continuous data},
+  year      = {2007},
+  number    = {3},
+  pages     = {243--258},
+  volume    = {16},
+  publisher = {Sage Publications Sage UK: London, England},
+}
+
+@Article{heeringa2001multivariate,
+  author = {Heeringa, Steven G},
+  title  = {Multivariate imputation of coarsened survey data on household wealth.},
+  year   = {2001},
+}
+
+@Book{gelman2013bayesian,
+  author    = {Gelman, Andrew and Carlin, John B and Stern, Hal S and Dunson, David B and Vehtari, Aki and Rubin, Donald B},
+  publisher = {CRC press},
+  title     = {Bayesian data analysis},
+  year      = {2013},
+}
+
+@Article{Schouten2018,
+  author    = {Rianne Margaretha Schouten and Peter Lugtig and Gerko Vink},
+  journal   = {Journal of Statistical Computation and Simulation},
+  title     = {Generating missing values for simulation purposes: a multivariate amputation procedure},
+  year      = {2018},
+  number    = {15},
+  pages     = {2909--2930},
+  volume    = {88},
+  publisher = {Informa {UK} Limited},
+}
+
+@Article{Vink2013,
+  author    = {Gerko Vink and Stef van Buuren},
+  journal   = {Sociological Methods {\&} Research},
+  title     = {Multiple Imputation of Squared Terms},
+  year      = {2013},
+  month     = {sep},
+  number    = {4},
+  pages     = {598--607},
+  volume    = {42},
+  doi       = {10.1177/0049124113502943},
+  publisher = {{SAGE} Publications},
+}
+
+@Article{Little1988,
+  author    = {Roderick J. A. Little},
+  journal   = {Journal of Business {\&} Economic Statistics},
+  title     = {Missing-Data Adjustments in Large Surveys},
+  year      = {1988},
+  month     = {jul},
+  number    = {3},
+  pages     = {287--296},
+  volume    = {6},
+  doi       = {10.1080/07350015.1988.10509663},
+  groups    = {lenovo:6},
+  publisher = {Informa {UK} Limited},
+}
+
+@Article{bartlett2015multiple,
+  author    = {Bartlett, Jonathan W and Seaman, Shaun R and White, Ian R and Carpenter, James R and Alzheimer's Disease Neuroimaging Initiative*},
+  journal   = {Statistical methods in medical research},
+  title     = {Multiple imputation of covariates by fully conditional specification: Accommodating the substantive model},
+  year      = {2015},
+  number    = {4},
+  pages     = {462--487},
+  volume    = {24},
+  publisher = {Sage Publications Sage UK: London, England},
+}
+
+@Article{krul2011self,
+  author    = {Krul, Arno J and Daanen, Hein AM and Choi, Hyegjoo},
+  journal   = {The European Journal of Public Health},
+  title     = {Self-reported and measured weight, height and body mass index (BMI) in Italy, the Netherlands and North America},
+  year      = {2011},
+  number    = {4},
+  pages     = {414--419},
+  volume    = {21},
+  publisher = {Oxford University Press},
+}
+
+@Comment{jabref-meta: databaseType:bibtex;}

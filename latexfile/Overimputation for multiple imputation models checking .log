@@ -1,0 +1,983 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (MiKTeX 2.9.6600 64-bit) (preloaded format=pdflatex 2018.7.17)  16 DEC 2020 18:39
+entering extended mode
+**"./Overimputation for multiple imputation models checking .tex"
+("Overimputation for multiple imputation models checking .tex"
+LaTeX2e <2017-04-15>
+Babel <3.17> and hyphenation patterns for 75 language(s) loaded.
+("C:\Users\lenovo\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\article.cls"
+Document Class: article 2014/09/29 v1.4h Standard LaTeX document class
+("C:\Users\lenovo\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\size12.clo"
+File: size12.clo 2014/09/29 v1.4h Standard LaTeX file (size option)
+)
+\c@part=\count79
+\c@section=\count80
+\c@subsection=\count81
+\c@subsubsection=\count82
+\c@paragraph=\count83
+\c@subparagraph=\count84
+\c@figure=\count85
+\c@table=\count86
+\abovecaptionskip=\skip41
+\belowcaptionskip=\skip42
+\bibindent=\dimen102
+)
+("C:\Users\lenovo\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics\graphicx
+.sty"
+Package: graphicx 2017/06/01 v1.1a Enhanced LaTeX Graphics (DPC,SPQR)
+
+("C:\Users\lenovo\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics\keyval.s
+ty"
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks14
+)
+("C:\Users\lenovo\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics\graphics
+.sty"
+Package: graphics 2017/06/25 v1.2c Standard LaTeX Graphics (DPC,SPQR)
+
+("C:\Users\lenovo\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics\trig.sty
+"
+Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
+)
+("C:\Users\lenovo\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics-cfg\grap
+hics.cfg"
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 99.
+
+("C:\Users\lenovo\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics-def\pdft
+ex.def"
+File: pdftex.def 2018/01/08 v1.0l Graphics/color driver for pdftex
+))
+\Gin@req@height=\dimen103
+\Gin@req@width=\dimen104
+)
+("C:\Users\lenovo\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\latexsym.sty
+"
+Package: latexsym 1998/08/17 v2.2e Standard LaTeX package (lasy symbols)
+\symlasy=\mathgroup4
+LaTeX Font Info:    Overwriting symbol font `lasy' in version `bold'
+(Font)                  U/lasy/m/n --> U/lasy/b/n on input line 52.
+)
+("C:\Users\lenovo\AppData\Local\Programs\MiKTeX 2.9\tex\latex\setspace\setspace
+.sty"
+Package: setspace 2011/12/19 v6.7a set line spacing
+)
+("C:\Users\lenovo\AppData\Local\Programs\MiKTeX 2.9\tex\latex\subfigure\subfigu
+re.sty"
+Package: subfigure 2002/07/30 v2.1.4 subfigure package
+\subfigtopskip=\skip43
+\subfigcapskip=\skip44
+\subfigcaptopadj=\dimen105
+\subfigbottomskip=\skip45
+\subfigcapmargin=\dimen106
+\subfiglabelskip=\skip46
+\c@subfigure=\count87
+\c@lofdepth=\count88
+\c@subtable=\count89
+\c@lotdepth=\count90
+
+****************************************
+* Local config file subfigure.cfg used *
+****************************************
+
+("C:\Users\lenovo\AppData\Local\Programs\MiKTeX 2.9\tex\latex\subfigure\subfigu
+re.cfg")
+\subfig@top=\skip47
+\subfig@bottom=\skip48
+)
+("C:\Users\lenovo\AppData\Local\Programs\MiKTeX 2.9\tex\latex\apacite\apacite.s
+ty"
+Package: apacite 2013/07/21 v6.03 APA citation
+\c@BibCnt=\count91
+\bibleftmargin=\skip49
+\bibindent=\skip50
+\bibparsep=\skip51
+\bibitemsep=\skip52
+\biblabelsep=\skip53
+)
+("C:\Users\lenovo\AppData\Local\Programs\MiKTeX 2.9\tex\latex\amsfonts\amssymb.
+sty"
+Package: amssymb 2013/01/14 v3.01 AMS font symbols
+
+("C:\Users\lenovo\AppData\Local\Programs\MiKTeX 2.9\tex\latex\amsfonts\amsfonts
+.sty"
+Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
+\@emptytoks=\toks15
+\symAMSa=\mathgroup5
+\symAMSb=\mathgroup6
+LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
+(Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
+))
+("C:\Users\lenovo\AppData\Local\Programs\MiKTeX 2.9\tex\latex\amsmath\amsmath.s
+ty"
+Package: amsmath 2017/09/02 v2.17a AMS math features
+\@mathmargin=\skip54
+
+For additional information on amsmath, use the `?' option.
+
+("C:\Users\lenovo\AppData\Local\Programs\MiKTeX 2.9\tex\latex\amsmath\amstext.s
+ty"
+Package: amstext 2000/06/29 v2.01 AMS text
+
+("C:\Users\lenovo\AppData\Local\Programs\MiKTeX 2.9\tex\latex\amsmath\amsgen.st
+y"
+File: amsgen.sty 1999/11/30 v2.0 generic functions
+\@emptytoks=\toks16
+\ex@=\dimen107
+))
+("C:\Users\lenovo\AppData\Local\Programs\MiKTeX 2.9\tex\latex\amsmath\amsbsy.st
+y"
+Package: amsbsy 1999/11/29 v1.2d Bold Symbols
+\pmbraise@=\dimen108
+)
+("C:\Users\lenovo\AppData\Local\Programs\MiKTeX 2.9\tex\latex\amsmath\amsopn.st
+y"
+Package: amsopn 2016/03/08 v2.02 operator names
+)
+\inf@bad=\count92
+LaTeX Info: Redefining \frac on input line 213.
+\uproot@=\count93
+\leftroot@=\count94
+LaTeX Info: Redefining \overline on input line 375.
+\classnum@=\count95
+\DOTSCASE@=\count96
+LaTeX Info: Redefining \ldots on input line 472.
+LaTeX Info: Redefining \dots on input line 475.
+LaTeX Info: Redefining \cdots on input line 596.
+\Mathstrutbox@=\box26
+\strutbox@=\box27
+\big@size=\dimen109
+LaTeX Font Info:    Redeclaring font encoding OML on input line 712.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 713.
+\macc@depth=\count97
+\c@MaxMatrixCols=\count98
+\dotsspace@=\muskip10
+\c@parentequation=\count99
+\dspbrk@lvl=\count100
+\tag@help=\toks17
+\row@=\count101
+\column@=\count102
+\maxfields@=\count103
+\andhelp@=\toks18
+\eqnshift@=\dimen110
+\alignsep@=\dimen111
+\tagshift@=\dimen112
+\tagwidth@=\dimen113
+\totwidth@=\dimen114
+\lineht@=\dimen115
+\@envbody=\toks19
+\multlinegap=\skip55
+\multlinetaggap=\skip56
+\mathdisplay@stack=\toks20
+LaTeX Info: Redefining \[ on input line 2817.
+LaTeX Info: Redefining \] on input line 2818.
+)
+("C:\Users\lenovo\AppData\Local\Programs\MiKTeX 2.9\tex\latex\amscls\amsthm.sty
+"
+Package: amsthm 2017/10/31 v2.20.4
+\thm@style=\toks21
+\thm@bodyfont=\toks22
+\thm@headfont=\toks23
+\thm@notefont=\toks24
+\thm@headpunct=\toks25
+\thm@preskip=\skip57
+\thm@postskip=\skip58
+\thm@headsep=\skip59
+\dth@everypar=\toks26
+) ("C:\Users\lenovo\AppData\Local\Programs\MiKTeX 2.9\tex\latex\tools\bm.sty"
+Package: bm 2017/01/16 v1.2c Bold Symbol Support (DPC/FMi)
+\symboldoperators=\mathgroup7
+\symboldletters=\mathgroup8
+\symboldsymbols=\mathgroup9
+\symboldlasy=\mathgroup10
+LaTeX Font Info:    Redeclaring math alphabet \mathbf on input line 141.
+LaTeX Info: Redefining \bm on input line 207.
+)
+("C:\Users\lenovo\AppData\Local\Programs\MiKTeX 2.9\tex\latex\oberdiek\epstopdf
+.sty"
+Package: epstopdf 2016/05/15 v2.6 Conversion with epstopdf on the fly (HO)
+
+("C:\Users\lenovo\AppData\Local\Programs\MiKTeX 2.9\tex\latex\oberdiek\epstopdf
+-base.sty"
+Package: epstopdf-base 2016/05/15 v2.6 Base part for package epstopdf
+
+("C:\Users\lenovo\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdiek\infwar
+err.sty"
+Package: infwarerr 2016/05/16 v1.4 Providing info/warning/error messages (HO)
+)
+("C:\Users\lenovo\AppData\Local\Programs\MiKTeX 2.9\tex\latex\oberdiek\grfext.s
+ty"
+Package: grfext 2016/05/16 v1.2 Manage graphics extensions (HO)
+
+("C:\Users\lenovo\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdiek\kvdefi
+nekeys.sty"
+Package: kvdefinekeys 2016/05/16 v1.4 Define keys (HO)
+
+("C:\Users\lenovo\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdiek\ltxcmd
+s.sty"
+Package: ltxcmds 2016/05/16 v1.23 LaTeX kernel commands for general use (HO)
+)))
+("C:\Users\lenovo\AppData\Local\Programs\MiKTeX 2.9\tex\latex\oberdiek\kvoption
+s.sty"
+Package: kvoptions 2016/05/16 v3.12 Key value format for package options (HO)
+
+("C:\Users\lenovo\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdiek\kvsetk
+eys.sty"
+Package: kvsetkeys 2016/05/16 v1.17 Key value parser (HO)
+
+("C:\Users\lenovo\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdiek\etexcm
+ds.sty"
+Package: etexcmds 2016/05/16 v1.6 Avoid name clashes with e-TeX commands (HO)
+
+("C:\Users\lenovo\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdiek\ifluat
+ex.sty"
+Package: ifluatex 2016/05/16 v1.4 Provides the ifluatex switch (HO)
+Package ifluatex Info: LuaTeX not detected.
+)
+Package etexcmds Info: Could not find \expanded.
+(etexcmds)             That can mean that you are not using pdfTeX 1.50 or
+(etexcmds)             that some package has redefined \expanded.
+(etexcmds)             In the latter case, load this package earlier.
+)))
+("C:\Users\lenovo\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdiek\pdftex
+cmds.sty"
+Package: pdftexcmds 2018/01/21 v0.26 Utility functions of pdfTeX for LuaTeX (HO
+)
+
+("C:\Users\lenovo\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdiek\ifpdf.
+sty"
+Package: ifpdf 2017/03/15 v3.2 Provides the ifpdf switch
+)
+Package pdftexcmds Info: LuaTeX not detected.
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+)
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
+38.
+Package grfext Info: Graphics extension search list:
+(grfext)             [.pdf,.png,.jpg,.mps,.jpeg,.jbig2,.jb2,.PDF,.PNG,.JPG,.JPE
+G,.JBIG2,.JB2,.eps]
+(grfext)             \AppendGraphicsExtensions on input line 456.
+))
+("C:\Users\lenovo\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics\rotating
+.sty"
+Package: rotating 2016/08/11 v2.16d rotated objects in LaTeX
+
+("C:\Users\lenovo\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\ifthen.sty"
+Package: ifthen 2014/09/29 v1.1c Standard LaTeX ifthen package (DPC)
+)
+\c@r@tfl@t=\count104
+\rotFPtop=\skip60
+\rotFPbot=\skip61
+\rot@float@box=\box28
+\rot@mess@toks=\toks27
+)
+("C:\Users\lenovo\AppData\Local\Programs\MiKTeX 2.9\tex\latex\booktabs\booktabs
+.sty"
+Package: booktabs 2005/04/14 v1.61803 publication quality tables
+\heavyrulewidth=\dimen116
+\lightrulewidth=\dimen117
+\cmidrulewidth=\dimen118
+\belowrulesep=\dimen119
+\belowbottomsep=\dimen120
+\aboverulesep=\dimen121
+\abovetopsep=\dimen122
+\cmidrulesep=\dimen123
+\cmidrulekern=\dimen124
+\defaultaddspace=\dimen125
+\@cmidla=\count105
+\@cmidlb=\count106
+\@aboverulesep=\dimen126
+\@belowrulesep=\dimen127
+\@thisruleclass=\count107
+\@lastruleclass=\count108
+\@thisrulewidth=\dimen128
+)
+("C:\Users\lenovo\AppData\Local\Programs\MiKTeX 2.9\tex\latex\multirow\multirow
+.sty"
+Package: multirow 2016/11/25 v2.2 Span multiple rows of a table
+\multirow@colwidth=\skip62
+\multirow@cntb=\count109
+\multirow@dima=\skip63
+\bigstrutjot=\dimen129
+)
+("C:\Users\lenovo\AppData\Local\Programs\MiKTeX 2.9\tex\latex\psnfss\pifont.sty
+"
+Package: pifont 2005/04/12 PSNFSS-v9.2a Pi font support (SPQR) 
+LaTeX Font Info:    Try loading font information for U+pzd on input line 63.
+ ("C:\Users\lenovo\AppData\Local\Programs\MiKTeX 2.9\tex\latex\psnfss\upzd.fd"
+File: upzd.fd 2001/06/04 font definitions for U/pzd.
+)
+LaTeX Font Info:    Try loading font information for U+psy on input line 64.
+ ("C:\Users\lenovo\AppData\Local\Programs\MiKTeX 2.9\tex\latex\psnfss\upsy.fd"
+File: upsy.fd 2001/06/04 font definitions for U/psy.
+))
+("C:\Users\lenovo\AppData\Local\Programs\MiKTeX 2.9\tex\latex\listings\listings
+.sty"
+\lst@mode=\count110
+\lst@gtempboxa=\box29
+\lst@token=\toks28
+\lst@length=\count111
+\lst@currlwidth=\dimen130
+\lst@column=\count112
+\lst@pos=\count113
+\lst@lostspace=\dimen131
+\lst@width=\dimen132
+\lst@newlines=\count114
+\lst@lineno=\count115
+\lst@maxwidth=\dimen133
+
+("C:\Users\lenovo\AppData\Local\Programs\MiKTeX 2.9\tex\latex\listings\lstmisc.
+sty"
+File: lstmisc.sty 2020/03/24 1.8d (Carsten Heinz)
+\c@lstnumber=\count116
+\lst@skipnumbers=\count117
+\lst@framebox=\box30
+)
+("C:\Users\lenovo\AppData\Local\Programs\MiKTeX 2.9\tex\latex\listings\listings
+.cfg"
+File: listings.cfg 2020/03/24 1.8d listings configuration
+))
+Package: listings 2020/03/24 1.8d (Carsten Heinz)
+
+("C:\Users\lenovo\AppData\Local\Programs\MiKTeX 2.9\tex\latex\xcolor\xcolor.sty
+"
+Package: xcolor 2016/05/11 v2.12 LaTeX color extensions (UK)
+
+("C:\Users\lenovo\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics-cfg\colo
+r.cfg"
+File: color.cfg 2016/01/02 v1.6 sample color configuration
+)
+Package xcolor Info: Driver file: pdftex.def on input line 225.
+Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1348.
+Package xcolor Info: Model `hsb' substituted by `rgb' on input line 1352.
+Package xcolor Info: Model `RGB' extended on input line 1364.
+Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1366.
+Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1367.
+Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1368.
+Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1369.
+Package xcolor Info: Model `Gray' substituted by `gray' on input line 1370.
+Package xcolor Info: Model `wave' substituted by `hsb' on input line 1371.
+
+("C:\Users\lenovo\AppData\Local\Programs\MiKTeX 2.9\tex\latex\xcolor\svgnam.def
+"
+File: svgnam.def 2016/05/11 v2.12 Predefined colors according to SVG 1.1 (UK)
+))
+("C:\Users\lenovo\AppData\Local\Programs\MiKTeX 2.9\tex\latex\listings\lstlang1
+.sty"
+File: lstlang1.sty 2020/03/24 1.8d listings language file
+)
+("C:\Users\lenovo\AppData\Local\Programs\MiKTeX 2.9\tex\latex\listings\lstlang2
+.sty"
+File: lstlang2.sty 2020/03/24 1.8d listings language file
+)
+("C:\Users\lenovo\AppData\Local\Programs\MiKTeX 2.9\tex\latex\listings\lstlang3
+.sty"
+File: lstlang3.sty 2020/03/24 1.8d listings language file
+)
+
+LaTeX Warning: Unused global option(s):
+    [fullpage].
+
+("Overimputation for multiple imputation models checking .aux"
+
+LaTeX Warning: Label `boxplot:a' multiply defined.
+
+
+LaTeX Warning: Label `sub@boxplot:a' multiply defined.
+
+
+LaTeX Warning: Label `boxplot:b' multiply defined.
+
+
+LaTeX Warning: Label `sub@boxplot:b' multiply defined.
+
+
+LaTeX Warning: Label `boxplot:a' multiply defined.
+
+
+LaTeX Warning: Label `sub@boxplot:a' multiply defined.
+
+
+LaTeX Warning: Label `boxplot:b' multiply defined.
+
+
+LaTeX Warning: Label `sub@boxplot:b' multiply defined.
+
+
+LaTeX Warning: Label `boxplot:a' multiply defined.
+
+
+LaTeX Warning: Label `sub@boxplot:a' multiply defined.
+
+
+LaTeX Warning: Label `boxplot:b' multiply defined.
+
+
+LaTeX Warning: Label `sub@boxplot:b' multiply defined.
+
+
+LaTeX Warning: Label `boxplot:b' multiply defined.
+
+
+LaTeX Warning: Label `sub@boxplot:b' multiply defined.
+
+
+LaTeX Warning: Label `boxplot:a' multiply defined.
+
+
+LaTeX Warning: Label `sub@boxplot:a' multiply defined.
+
+
+LaTeX Warning: Label `boxplot:b' multiply defined.
+
+
+LaTeX Warning: Label `sub@boxplot:b' multiply defined.
+
+
+LaTeX Warning: Label `boxplot:b' multiply defined.
+
+
+LaTeX Warning: Label `sub@boxplot:b' multiply defined.
+
+
+LaTeX Warning: Label `boxplot:a' multiply defined.
+
+
+LaTeX Warning: Label `sub@boxplot:a' multiply defined.
+
+
+LaTeX Warning: Label `boxplot:b' multiply defined.
+
+
+LaTeX Warning: Label `sub@boxplot:b' multiply defined.
+
+
+LaTeX Warning: Label `boxplot:b' multiply defined.
+
+
+LaTeX Warning: Label `sub@boxplot:b' multiply defined.
+
+
+LaTeX Warning: Label `boxplot:a' multiply defined.
+
+
+LaTeX Warning: Label `sub@boxplot:a' multiply defined.
+
+
+LaTeX Warning: Label `boxplot:b' multiply defined.
+
+
+LaTeX Warning: Label `sub@boxplot:b' multiply defined.
+
+
+LaTeX Warning: Label `boxplot:b' multiply defined.
+
+
+LaTeX Warning: Label `sub@boxplot:b' multiply defined.
+
+
+LaTeX Warning: Label `boxplot:a' multiply defined.
+
+
+LaTeX Warning: Label `sub@boxplot:a' multiply defined.
+
+
+LaTeX Warning: Label `boxplot:b' multiply defined.
+
+
+LaTeX Warning: Label `sub@boxplot:b' multiply defined.
+
+
+LaTeX Warning: Label `boxplot:a' multiply defined.
+
+
+LaTeX Warning: Label `sub@boxplot:a' multiply defined.
+
+
+LaTeX Warning: Label `boxplot:b' multiply defined.
+
+
+LaTeX Warning: Label `sub@boxplot:b' multiply defined.
+
+
+LaTeX Warning: Label `boxplot:a' multiply defined.
+
+
+LaTeX Warning: Label `sub@boxplot:a' multiply defined.
+
+
+LaTeX Warning: Label `boxplot:b' multiply defined.
+
+
+LaTeX Warning: Label `sub@boxplot:b' multiply defined.
+
+
+LaTeX Warning: Label `boxplot:c' multiply defined.
+
+
+LaTeX Warning: Label `sub@boxplot:c' multiply defined.
+
+
+LaTeX Warning: Label `boxplot:d' multiply defined.
+
+
+LaTeX Warning: Label `sub@boxplot:d' multiply defined.
+
+
+LaTeX Warning: Label `boxplot:a' multiply defined.
+
+
+LaTeX Warning: Label `sub@boxplot:a' multiply defined.
+
+
+LaTeX Warning: Label `boxplot:b' multiply defined.
+
+
+LaTeX Warning: Label `sub@boxplot:b' multiply defined.
+
+
+LaTeX Warning: Label `boxplot:c' multiply defined.
+
+
+LaTeX Warning: Label `sub@boxplot:c' multiply defined.
+
+
+LaTeX Warning: Label `boxplot:d' multiply defined.
+
+
+LaTeX Warning: Label `sub@boxplot:d' multiply defined.
+
+
+LaTeX Warning: Label `boxplot:e' multiply defined.
+
+
+LaTeX Warning: Label `sub@boxplot:e' multiply defined.
+
+
+LaTeX Warning: Label `boxplot:f' multiply defined.
+
+
+LaTeX Warning: Label `sub@boxplot:f' multiply defined.
+
+
+LaTeX Warning: Label `boxplot:a' multiply defined.
+
+
+LaTeX Warning: Label `sub@boxplot:a' multiply defined.
+
+
+LaTeX Warning: Label `boxplot:b' multiply defined.
+
+
+LaTeX Warning: Label `sub@boxplot:b' multiply defined.
+
+
+LaTeX Warning: Label `boxplot:c' multiply defined.
+
+
+LaTeX Warning: Label `sub@boxplot:c' multiply defined.
+
+
+LaTeX Warning: Label `boxplot:d' multiply defined.
+
+
+LaTeX Warning: Label `sub@boxplot:d' multiply defined.
+
+
+LaTeX Warning: Label `boxplot:e' multiply defined.
+
+
+LaTeX Warning: Label `sub@boxplot:e' multiply defined.
+
+
+LaTeX Warning: Label `boxplot:f' multiply defined.
+
+
+LaTeX Warning: Label `sub@boxplot:f' multiply defined.
+
+)
+\openout1 = `"Overimputation for multiple imputation models checking .aux"'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 30.
+LaTeX Font Info:    ... okay on input line 30.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 30.
+LaTeX Font Info:    ... okay on input line 30.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 30.
+LaTeX Font Info:    ... okay on input line 30.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 30.
+LaTeX Font Info:    ... okay on input line 30.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 30.
+LaTeX Font Info:    ... okay on input line 30.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 30.
+LaTeX Font Info:    ... okay on input line 30.
+
+("C:\Users\lenovo\AppData\Local\Programs\MiKTeX 2.9\tex\context\base\supp-pdf.m
+kii"
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count118
+\scratchdimen=\dimen134
+\scratchbox=\box31
+\nofMPsegments=\count119
+\nofMParguments=\count120
+\everyMPshowfont=\toks29
+\MPscratchCnt=\count121
+\MPscratchDim=\dimen135
+\MPnumerator=\count122
+\makeMPintoPDFobject=\count123
+\everyMPtoPDFconversion=\toks30
+)
+\c@maskedRefs=\count124
+
+("C:\Users\lenovo\AppData\Local\Programs\MiKTeX 2.9\tex\latex\apacite\english.a
+pc"
+File: english.apc 2013/07/21 v6.03 apacite language file
+LaTeX Info: Redefining \BPBI on input line 129.
+LaTeX Info: Redefining \BHBI on input line 130.
+)
+\c@lstlisting=\count125
+LaTeX Font Info:    Try loading font information for U+lasy on input line 33.
+ ("C:\Users\lenovo\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\ulasy.fd"
+File: ulasy.fd 1998/08/17 v2.2e LaTeX symbol font definitions
+)
+LaTeX Font Info:    Try loading font information for U+msa on input line 33.
+
+("C:\Users\lenovo\AppData\Local\Programs\MiKTeX 2.9\tex\latex\amsfonts\umsa.fd"
+File: umsa.fd 2013/01/14 v3.01 AMS symbols A
+)
+LaTeX Font Info:    Try loading font information for U+msb on input line 33.
+ ("C:\Users\lenovo\AppData\Local\Programs\MiKTeX 2.9\tex\latex\amsfonts\umsb.fd
+"
+File: umsb.fd 2013/01/14 v3.01 AMS symbols B
+)
+LaTeX Font Info:    Font shape `U/lasy/b/n' in size <7> not available
+(Font)              Font shape `U/lasy/m/n' tried instead on input line 33.
+
+
+LaTeX Warning: No \author given.
+
+[1
+
+{C:/Users/lenovo/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}] [2]
+LaTeX Font Info:    Font shape `U/lasy/b/n' in size <8> not available
+(Font)              Font shape `U/lasy/m/n' tried instead on input line 45.
+LaTeX Font Info:    Font shape `U/lasy/b/n' in size <6> not available
+(Font)              Font shape `U/lasy/m/n' tried instead on input line 45.
+
+[3] [4] [5] [6] [7]
+LaTeX Font Info:    Font shape `OT1/cmtt/bx/n' in size <17.28> not available
+(Font)              Font shape `OT1/cmtt/m/n' tried instead on input line 116.
+
+Overfull \hbox (24.04472pt too wide) in paragraph at lines 117--118
+\OT1/cmr/m/n/12 the case $\OML/cmm/m/it/12 i$ \OT1/cmr/m/n/12 with the bi-vari-
+ate con-di-tional dis-tri-bu-tion $\OML/cmm/m/it/12 P[]\OT1/cmr/m/n/12 (\OML/cm
+m/m/it/12 Y[]; Y[]\OMS/cmsy/m/n/12 j\OML/cmm/m/it/12 Y[]; Y[]; []\OT1/cmr/m/n/
+12 )$. 
+ []
+
+[8]
+<plot/miflow.png, id=38, 1328.965pt x 800.9925pt>
+File: plot/miflow.png Graphic file (type png)
+<use plot/miflow.png>
+Package pdftex.def Info: plot/miflow.png  used on input line 130.
+(pdftex.def)             Requested size: 265.78828pt x 160.19566pt.
+ [9] [10 <./plot/miflow.png>] [11] [12] [13] [14] [15] [16] [17] [18]
+[19] [20] [21] [22] [23] [24] [25] [26] [27]
+("Overimputation for multiple imputation models checking .bbl" [28] [29])
+[30]
+Overfull \hbox (91.98048pt too wide) in paragraph at lines 232--244
+[][] 
+ []
+
+
+Overfull \hbox (88.77924pt too wide) in paragraph at lines 304--312
+[][] 
+ []
+
+<plot/1.png, id=110, 356.83313pt x 377.91188pt>
+File: plot/1.png Graphic file (type png)
+<use plot/1.png>
+Package pdftex.def Info: plot/1.png  used on input line 328.
+(pdftex.def)             Requested size: 178.41612pt x 188.95547pt.
+<plot/2.png, id=111, 356.83313pt x 377.91188pt>
+File: plot/2.png Graphic file (type png)
+<use plot/2.png>
+Package pdftex.def Info: plot/2.png  used on input line 328.
+(pdftex.def)             Requested size: 178.41612pt x 188.95547pt.
+<plot/3.png, id=112, 356.83313pt x 377.91188pt>
+File: plot/3.png Graphic file (type png)
+<use plot/3.png>
+Package pdftex.def Info: plot/3.png  used on input line 345.
+(pdftex.def)             Requested size: 178.41612pt x 188.95547pt.
+<plot/4.png, id=113, 356.83313pt x 377.91188pt>
+File: plot/4.png Graphic file (type png)
+<use plot/4.png>
+Package pdftex.def Info: plot/4.png  used on input line 345.
+(pdftex.def)             Requested size: 178.41612pt x 188.95547pt.
+<plot/5.png, id=114, 356.83313pt x 377.91188pt>
+File: plot/5.png Graphic file (type png)
+<use plot/5.png>
+Package pdftex.def Info: plot/5.png  used on input line 355.
+(pdftex.def)             Requested size: 178.41612pt x 188.95547pt.
+<plot/6.png, id=115, 356.83313pt x 377.91188pt>
+File: plot/6.png Graphic file (type png)
+<use plot/6.png>
+Package pdftex.def Info: plot/6.png  used on input line 355.
+(pdftex.def)             Requested size: 178.41612pt x 188.95547pt.
+<plot/7.png, id=116, 356.83313pt x 377.91188pt>
+File: plot/7.png Graphic file (type png)
+<use plot/7.png>
+Package pdftex.def Info: plot/7.png  used on input line 372.
+(pdftex.def)             Requested size: 178.41612pt x 188.95547pt.
+<plot/8.png, id=117, 356.83313pt x 377.91188pt>
+File: plot/8.png Graphic file (type png)
+<use plot/8.png>
+Package pdftex.def Info: plot/8.png  used on input line 372.
+(pdftex.def)             Requested size: 178.41612pt x 188.95547pt.
+<plot/scatterpc.png, id=118, 356.83313pt x 377.91188pt>
+File: plot/scatterpc.png Graphic file (type png)
+<use plot/scatterpc.png>
+Package pdftex.def Info: plot/scatterpc.png  used on input line 393.
+(pdftex.def)             Requested size: 178.41612pt x 188.95547pt.
+<plot/scattersmcfcs.png, id=119, 356.83313pt x 377.91188pt>
+File: plot/scattersmcfcs.png Graphic file (type png)
+<use plot/scattersmcfcs.png>
+Package pdftex.def Info: plot/scattersmcfcs.png  used on input line 393.
+(pdftex.def)             Requested size: 178.41612pt x 188.95547pt.
+<plot/scatterpmm.png, id=120, 356.83313pt x 377.91188pt>
+File: plot/scatterpmm.png Graphic file (type png)
+<use plot/scatterpmm.png>
+Package pdftex.def Info: plot/scatterpmm.png  used on input line 393.
+(pdftex.def)             Requested size: 178.41612pt x 188.95547pt.
+<plot/densitypc.png, id=121, 356.83313pt x 377.91188pt>
+File: plot/densitypc.png Graphic file (type png)
+<use plot/densitypc.png>
+Package pdftex.def Info: plot/densitypc.png  used on input line 413.
+(pdftex.def)             Requested size: 178.41612pt x 188.95547pt.
+<plot/densitysmcfcs.png, id=122, 356.83313pt x 377.91188pt>
+File: plot/densitysmcfcs.png Graphic file (type png)
+<use plot/densitysmcfcs.png>
+Package pdftex.def Info: plot/densitysmcfcs.png  used on input line 413.
+(pdftex.def)             Requested size: 178.41612pt x 188.95547pt.
+<plot/densitypmm.png, id=123, 356.83313pt x 377.91188pt>
+File: plot/densitypmm.png Graphic file (type png)
+<use plot/densitypmm.png>
+Package pdftex.def Info: plot/densitypmm.png  used on input line 413.
+(pdftex.def)             Requested size: 178.41612pt x 188.95547pt.
+<plot/distributionpc.png, id=124, 356.83313pt x 377.91188pt>
+File: plot/distributionpc.png Graphic file (type png)
+<use plot/distributionpc.png>
+Package pdftex.def Info: plot/distributionpc.png  used on input line 433.
+(pdftex.def)             Requested size: 178.41612pt x 188.95547pt.
+<plot/distributionsmcfcs.png, id=125, 356.83313pt x 377.91188pt>
+File: plot/distributionsmcfcs.png Graphic file (type png)
+<use plot/distributionsmcfcs.png>
+Package pdftex.def Info: plot/distributionsmcfcs.png  used on input line 433.
+(pdftex.def)             Requested size: 178.41612pt x 188.95547pt.
+<plot/distributionpmm.png, id=126, 356.83313pt x 377.91188pt>
+File: plot/distributionpmm.png Graphic file (type png)
+<use plot/distributionpmm.png>
+Package pdftex.def Info: plot/distributionpmm.png  used on input line 433.
+(pdftex.def)             Requested size: 178.41612pt x 188.95547pt.
+<plot/distribution75pc.png, id=127, 356.83313pt x 377.91188pt>
+File: plot/distribution75pc.png Graphic file (type png)
+<use plot/distribution75pc.png>
+Package pdftex.def Info: plot/distribution75pc.png  used on input line 453.
+(pdftex.def)             Requested size: 178.41612pt x 188.95547pt.
+<plot/distribution75smcfcs.png, id=128, 356.83313pt x 377.91188pt>
+File: plot/distribution75smcfcs.png Graphic file (type png)
+<use plot/distribution75smcfcs.png>
+Package pdftex.def Info: plot/distribution75smcfcs.png  used on input line 453.
+
+(pdftex.def)             Requested size: 178.41612pt x 188.95547pt.
+<plot/distribution75pmm.png, id=129, 356.83313pt x 377.91188pt>
+File: plot/distribution75pmm.png Graphic file (type png)
+<use plot/distribution75pmm.png>
+Package pdftex.def Info: plot/distribution75pmm.png  used on input line 453.
+(pdftex.def)             Requested size: 178.41612pt x 188.95547pt.
+<plot/deviancewithx.png, id=130, 356.83313pt x 377.91188pt>
+File: plot/deviancewithx.png Graphic file (type png)
+<use plot/deviancewithx.png>
+Package pdftex.def Info: plot/deviancewithx.png  used on input line 470.
+(pdftex.def)             Requested size: 178.41612pt x 188.95547pt.
+LaTeX Font Info:    Font shape `U/lasy/b/n' in size <5> not available
+(Font)              Font shape `U/lasy/m/n' tried instead on input line 470.
+<plot/deviancewithoutx.png, id=131, 356.83313pt x 377.91188pt>
+File: plot/deviancewithoutx.png Graphic file (type png)
+<use plot/deviancewithoutx.png>
+Package pdftex.def Info: plot/deviancewithoutx.png  used on input line 470.
+(pdftex.def)             Requested size: 178.41612pt x 188.95547pt.
+<plot/densitywithx.png, id=132, 356.83313pt x 377.91188pt>
+File: plot/densitywithx.png Graphic file (type png)
+<use plot/densitywithx.png>
+Package pdftex.def Info: plot/densitywithx.png  used on input line 486.
+(pdftex.def)             Requested size: 178.41612pt x 188.95547pt.
+<plot/densitywithoutx.png, id=133, 356.83313pt x 377.91188pt>
+File: plot/densitywithoutx.png Graphic file (type png)
+<use plot/densitywithoutx.png>
+Package pdftex.def Info: plot/densitywithoutx.png  used on input line 486.
+(pdftex.def)             Requested size: 178.41612pt x 188.95547pt.
+<plot/densitycase1.png, id=134, 356.83313pt x 377.91188pt>
+File: plot/densitycase1.png Graphic file (type png)
+<use plot/densitycase1.png>
+Package pdftex.def Info: plot/densitycase1.png  used on input line 504.
+(pdftex.def)             Requested size: 178.41612pt x 188.95547pt.
+<plot/scattercase1hm.png, id=135, 356.83313pt x 377.91188pt>
+File: plot/scattercase1hm.png Graphic file (type png)
+<use plot/scattercase1hm.png>
+Package pdftex.def Info: plot/scattercase1hm.png  used on input line 504.
+(pdftex.def)             Requested size: 178.41612pt x 188.95547pt.
+<plot/scattercase1wm.png, id=136, 356.83313pt x 377.91188pt>
+File: plot/scattercase1wm.png Graphic file (type png)
+<use plot/scattercase1wm.png>
+Package pdftex.def Info: plot/scattercase1wm.png  used on input line 514.
+(pdftex.def)             Requested size: 178.41612pt x 188.95547pt.
+<plot/distributioncase1hm.png, id=137, 356.83313pt x 377.91188pt>
+File: plot/distributioncase1hm.png Graphic file (type png)
+<use plot/distributioncase1hm.png>
+Package pdftex.def Info: plot/distributioncase1hm.png  used on input line 514.
+(pdftex.def)             Requested size: 178.41612pt x 188.95547pt.
+<plot/distributioncase1wm.png, id=138, 356.83313pt x 377.91188pt>
+File: plot/distributioncase1wm.png Graphic file (type png)
+<use plot/distributioncase1wm.png>
+Package pdftex.def Info: plot/distributioncase1wm.png  used on input line 524.
+(pdftex.def)             Requested size: 178.41612pt x 188.95547pt.
+<plot/densitycase2.png, id=139, 356.83313pt x 377.91188pt>
+File: plot/densitycase2.png Graphic file (type png)
+<use plot/densitycase2.png>
+Package pdftex.def Info: plot/densitycase2.png  used on input line 524.
+(pdftex.def)             Requested size: 178.41612pt x 188.95547pt.
+
+LaTeX Warning: Float too large for page by 88.05463pt on input line 528.
+
+<plot/scattercase2hm.png, id=140, 356.83313pt x 377.91188pt>
+File: plot/scattercase2hm.png Graphic file (type png)
+<use plot/scattercase2hm.png>
+Package pdftex.def Info: plot/scattercase2hm.png  used on input line 540.
+(pdftex.def)             Requested size: 178.41612pt x 188.95547pt.
+<plot/scattercase2wm.png, id=141, 356.83313pt x 377.91188pt>
+File: plot/scattercase2wm.png Graphic file (type png)
+<use plot/scattercase2wm.png>
+Package pdftex.def Info: plot/scattercase2wm.png  used on input line 540.
+(pdftex.def)             Requested size: 178.41612pt x 188.95547pt.
+<plot/distributioncase2hm.png, id=142, 356.83313pt x 377.91188pt>
+File: plot/distributioncase2hm.png Graphic file (type png)
+<use plot/distributioncase2hm.png>
+Package pdftex.def Info: plot/distributioncase2hm.png  used on input line 550.
+(pdftex.def)             Requested size: 178.41612pt x 188.95547pt.
+<plot/distributioncase2wm.png, id=143, 356.83313pt x 377.91188pt>
+File: plot/distributioncase2wm.png Graphic file (type png)
+<use plot/distributioncase2wm.png>
+Package pdftex.def Info: plot/distributioncase2wm.png  used on input line 550.
+(pdftex.def)             Requested size: 178.41612pt x 188.95547pt.
+<plot/densitycase3.png, id=144, 356.83313pt x 377.91188pt>
+File: plot/densitycase3.png Graphic file (type png)
+<use plot/densitycase3.png>
+Package pdftex.def Info: plot/densitycase3.png  used on input line 560.
+(pdftex.def)             Requested size: 178.41612pt x 188.95547pt.
+<plot/scattercase3hm.png, id=145, 356.83313pt x 377.91188pt>
+File: plot/scattercase3hm.png Graphic file (type png)
+<use plot/scattercase3hm.png>
+Package pdftex.def Info: plot/scattercase3hm.png  used on input line 560.
+(pdftex.def)             Requested size: 178.41612pt x 188.95547pt.
+
+LaTeX Warning: Float too large for page by 88.05463pt on input line 565.
+
+<plot/scattercase3wm.png, id=146, 356.83313pt x 377.91188pt>
+File: plot/scattercase3wm.png Graphic file (type png)
+<use plot/scattercase3wm.png>
+Package pdftex.def Info: plot/scattercase3wm.png  used on input line 578.
+(pdftex.def)             Requested size: 178.41612pt x 188.95547pt.
+<plot/distributioncase3hm.png, id=147, 356.83313pt x 377.91188pt>
+File: plot/distributioncase3hm.png Graphic file (type png)
+<use plot/distributioncase3hm.png>
+Package pdftex.def Info: plot/distributioncase3hm.png  used on input line 578.
+(pdftex.def)             Requested size: 178.41612pt x 188.95547pt.
+<plot/distributioncase3wm.png, id=148, 356.83313pt x 377.91188pt>
+File: plot/distributioncase3wm.png Graphic file (type png)
+<use plot/distributioncase3wm.png>
+Package pdftex.def Info: plot/distributioncase3wm.png  used on input line 588.
+(pdftex.def)             Requested size: 178.41612pt x 188.95547pt.
+<plot/densitycase4.png, id=149, 356.83313pt x 377.91188pt>
+File: plot/densitycase4.png Graphic file (type png)
+<use plot/densitycase4.png>
+Package pdftex.def Info: plot/densitycase4.png  used on input line 588.
+(pdftex.def)             Requested size: 178.41612pt x 188.95547pt.
+<plot/scattercase4hm.png, id=150, 356.83313pt x 377.91188pt>
+File: plot/scattercase4hm.png Graphic file (type png)
+<use plot/scattercase4hm.png>
+Package pdftex.def Info: plot/scattercase4hm.png  used on input line 598.
+(pdftex.def)             Requested size: 178.41612pt x 188.95547pt.
+<plot/scattercase4wm.png, id=151, 356.83313pt x 377.91188pt>
+File: plot/scattercase4wm.png Graphic file (type png)
+<use plot/scattercase4wm.png>
+Package pdftex.def Info: plot/scattercase4wm.png  used on input line 598.
+(pdftex.def)             Requested size: 178.41612pt x 188.95547pt.
+
+LaTeX Warning: Float too large for page by 88.05463pt on input line 602.
+
+<plot/distributioncase4hm.png, id=152, 356.83313pt x 377.91188pt>
+File: plot/distributioncase4hm.png Graphic file (type png)
+<use plot/distributioncase4hm.png>
+Package pdftex.def Info: plot/distributioncase4hm.png  used on input line 614.
+(pdftex.def)             Requested size: 178.41612pt x 188.95547pt.
+<plot/distributioncase4wm.png, id=153, 356.83313pt x 377.91188pt>
+File: plot/distributioncase4wm.png Graphic file (type png)
+<use plot/distributioncase4wm.png>
+Package pdftex.def Info: plot/distributioncase4wm.png  used on input line 614.
+(pdftex.def)             Requested size: 178.41612pt x 188.95547pt.
+[31] [32] [33] [34] [35 <./plot/1.png> <./plot/2.png>] [36 <./plot/3.png> <./pl
+ot/4.png> <./plot/5.png> <./plot/6.png>] [37 <./plot/7.png> <./plot/8.png>]
+[38 <./plot/scatterpc.png> <./plot/scattersmcfcs.png> <./plot/scatterpmm.png>]
+[39 <./plot/densitypc.png> <./plot/densitysmcfcs.png> <./plot/densitypmm.png>]
+[40 <./plot/distributionpc.png> <./plot/distributionsmcfcs.png> <./plot/distrib
+utionpmm.png>] [41 <./plot/distribution75pc.png> <./plot/distribution75smcfcs.p
+ng> <./plot/distribution75pmm.png>] [42 <./plot/deviancewithx.png> <./plot/devi
+ancewithoutx.png> <./plot/densitywithx.png> <./plot/densitywithoutx.png>]
+[43 <./plot/densitycase1.png> <./plot/scattercase1hm.png> <./plot/scattercase1w
+m.png> <./plot/distributioncase1hm.png> <./plot/distributioncase1wm.png> <./plo
+t/densitycase2.png>] [44 <./plot/scattercase2hm.png> <./plot/scattercase2wm.png
+> <./plot/distributioncase2hm.png> <./plot/distributioncase2wm.png> <./plot/den
+sitycase3.png> <./plot/scattercase3hm.png>] [45 <./plot/scattercase3wm.png> <./
+plot/distributioncase3hm.png> <./plot/distributioncase3wm.png> <./plot/densityc
+ase4.png> <./plot/scattercase4hm.png> <./plot/scattercase4wm.png>] [46 <./plot/
+distributioncase4hm.png> <./plot/distributioncase4wm.png>]
+("Overimputation for multiple imputation models checking .aux")
+
+LaTeX Warning: There were multiply-defined labels.
+
+ ) 
+Here is how much of TeX's memory you used:
+ 6422 strings out of 493303
+ 90791 string characters out of 3129349
+ 373244 words of memory out of 3000000
+ 9786 multiletter control sequences out of 15000+200000
+ 21783 words of font info for 87 fonts, out of 3000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 42i,11n,40p,2512b,2135s stack positions out of 5000i,500n,10000p,200000b,50000s
+<C:/Users/lenovo/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfont
+s/cm/cmbx12.pfb><C:/Users/lenovo/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/
+public/amsfonts/cm/cmex10.pfb><C:/Users/lenovo/AppData/Local/Programs/MiKTeX 2.
+9/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Users/lenovo/AppData/Local/Prog
+rams/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi12.pfb><C:/Users/lenovo/AppD
+ata/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi6.pfb><C:/User
+s/lenovo/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi8
+.pfb><C:/Users/lenovo/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsf
+onts/cm/cmr10.pfb><C:/Users/lenovo/AppData/Local/Programs/MiKTeX 2.9/fonts/type
+1/public/amsfonts/cm/cmr12.pfb><C:/Users/lenovo/AppData/Local/Programs/MiKTeX 2
+.9/fonts/type1/public/amsfonts/cm/cmr17.pfb><C:/Users/lenovo/AppData/Local/Prog
+rams/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr8.pfb><C:/Users/lenovo/AppDat
+a/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Users
+/lenovo/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy8.
+pfb><C:/Users/lenovo/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfo
+nts/cm/cmti12.pfb><C:/Users/lenovo/AppData/Local/Programs/MiKTeX 2.9/fonts/type
+1/public/amsfonts/cm/cmtt10.pfb><C:/Users/lenovo/AppData/Local/Programs/MiKTeX 
+2.9/fonts/type1/public/amsfonts/cm/cmtt12.pfb>
+Output written on "Overimputation for multiple imputation models checking .pdf"
+ (46 pages, 811906 bytes).
+PDF statistics:
+ 300 PDF objects out of 1000 (max. 8388607)
+ 0 named destinations out of 1000 (max. 500000)
+ 226 words of extra memory for PDF output out of 10000 (max. 10000000)
+

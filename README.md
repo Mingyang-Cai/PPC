@@ -1,0 +1,2 @@
+# PPC
+ posterior predictive checking 

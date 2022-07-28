@@ -1,0 +1,61 @@
+This is BibTeX, Version 0.99d
+Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
+The top-level auxiliary file: Graphical and numerical diagnostic tools to assess multiple imputation models by posterior predictive checking.aux
+Reallocating 'name_of_file' (item size: 1) to 8 items.
+The style file: apacite.bst
+Reallocating 'name_of_file' (item size: 1) to 4 items.
+Reallocating 'glb_str_end' (item size: 4) to 20 items.
+Reallocating 'glb_str_ptr' (item size: 4) to 20 items.
+Reallocating 'global_strs' (item size: 1) to 4000000 items.
+Reallocating 'singl_function' (item size: 4) to 100 items.
+Reallocating 'wiz_functions' (item size: 4) to 6000 items.
+Reallocating 'singl_function' (item size: 4) to 100 items.
+Reallocating 'singl_function' (item size: 4) to 100 items.
+Reallocating 'wiz_functions' (item size: 4) to 9000 items.
+Reallocating 'singl_function' (item size: 4) to 100 items.
+Database file #1: PPC.bib
+apacite.bst [2013/07/21 v6.03 APA bibliography style]
+Warning--No journal in heeringa2001multivariate
+Warning--No journal in su2011multiple
+You've used 31 entries,
+            6951 wiz_defined-function locations,
+            1467 strings with 16530 characters,
+and the built_in function-call counts, 63362 in all, are:
+= -- 7747
+> -- 533
+< -- 3260
++ -- 3441
+- -- 62
+* -- 4237
+:= -- 12034
+add.period$ -- 124
+call.type$ -- 31
+change.case$ -- 531
+chr.to.int$ -- 0
+cite$ -- 64
+duplicate$ -- 1695
+empty$ -- 2325
+format.name$ -- 914
+if$ -- 11728
+int.to.chr$ -- 0
+int.to.str$ -- 93
+missing$ -- 0
+newline$ -- 795
+num.names$ -- 248
+pop$ -- 881
+preamble$ -- 1
+purify$ -- 128
+quote$ -- 0
+skip$ -- 3895
+stack$ -- 0
+substring$ -- 3722
+swap$ -- 987
+text.length$ -- 70
+text.prefix$ -- 0
+top$ -- 1
+type$ -- 2480
+warning$ -- 2
+while$ -- 314
+width$ -- 0
+write$ -- 1019
+(There were 2 warnings)

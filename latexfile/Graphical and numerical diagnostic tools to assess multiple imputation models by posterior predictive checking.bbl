@@ -1,0 +1,863 @@
+\begin{thebibliography}{}
+
+\bibitem [\protect \citeauthoryear {%
+Abayomi%
+, Gelman%
+\BCBL {}\ \BBA {} Levy%
+}{%
+Abayomi%
+\ \protect \BOthers {.}}{%
+{\protect \APACyear {2008}}%
+}]{%
+abayomi2008diagnostics}
+\APACinsertmetastar {%
+abayomi2008diagnostics}%
+\begin{APACrefauthors}%
+Abayomi, K.%
+, Gelman, A.%
+\BCBL {}\ \BBA {} Levy, M.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2008}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Diagnostics for multivariate imputations} {Diagnostics
+  for multivariate imputations}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{Journal of the Royal Statistical Society: Series C
+  (Applied Statistics)}{57}{3}{273--291}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Bartlett%
+\ \BBA {} Hughes%
+}{%
+Bartlett%
+\ \BBA {} Hughes%
+}{%
+{\protect \APACyear {2020}}%
+}]{%
+bartlett2020bootstrap}
+\APACinsertmetastar {%
+bartlett2020bootstrap}%
+\begin{APACrefauthors}%
+Bartlett, J\BPBI W.%
+\BCBT {}\ \BBA {} Hughes, R\BPBI A.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2020}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Bootstrap inference for multiple imputation under
+  uncongeniality and misspecification} {Bootstrap inference for multiple
+  imputation under uncongeniality and misspecification}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{Statistical methods in medical
+  research}{29}{12}{3533--3546}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Bartlett%
+, Seaman%
+, White%
+, Carpenter%
+\BCBL {}\ \BBA {} Initiative*%
+}{%
+Bartlett%
+\ \protect \BOthers {.}}{%
+{\protect \APACyear {2015}}%
+}]{%
+bartlett2015multiple}
+\APACinsertmetastar {%
+bartlett2015multiple}%
+\begin{APACrefauthors}%
+Bartlett, J\BPBI W.%
+, Seaman, S\BPBI R.%
+, White, I\BPBI R.%
+, Carpenter, J\BPBI R.%
+\BCBL {}\ \BBA {} Initiative*, A\BPBI D\BPBI N.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2015}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Multiple imputation of covariates by fully conditional
+  specification: Accommodating the substantive model} {Multiple imputation of
+  covariates by fully conditional specification: Accommodating the substantive
+  model}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{Statistical methods in medical
+  research}{24}{4}{462--487}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Bondarenko%
+\ \BBA {} Raghunathan%
+}{%
+Bondarenko%
+\ \BBA {} Raghunathan%
+}{%
+{\protect \APACyear {2016}}%
+}]{%
+bondarenko2016graphical}
+\APACinsertmetastar {%
+bondarenko2016graphical}%
+\begin{APACrefauthors}%
+Bondarenko, I.%
+\BCBT {}\ \BBA {} Raghunathan, T.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2016}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Graphical and numerical diagnostic tools to assess
+  suitability of multiple imputations and imputation models} {Graphical and
+  numerical diagnostic tools to assess suitability of multiple imputations and
+  imputation models}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{Statistics in medicine}{35}{17}{3007--3020}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Cai%
+\ \BBA {} Vink%
+}{%
+Cai%
+\ \BBA {} Vink%
+}{%
+{\protect \APACyear {2022}}%
+}]{%
+cai2022note}
+\APACinsertmetastar {%
+cai2022note}%
+\begin{APACrefauthors}%
+Cai, M.%
+\BCBT {}\ \BBA {} Vink, G.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2022}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {A note on imputing squares via polynomial combination
+  approach} {A note on imputing squares via polynomial combination
+  approach}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{Computational Statistics}{}{}{1--17}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+De~Waal%
+, Pannekoek%
+\BCBL {}\ \BBA {} Scholtus%
+}{%
+De~Waal%
+\ \protect \BOthers {.}}{%
+{\protect \APACyear {2011}}%
+}]{%
+de2011handbook}
+\APACinsertmetastar {%
+de2011handbook}%
+\begin{APACrefauthors}%
+De~Waal, T.%
+, Pannekoek, J.%
+\BCBL {}\ \BBA {} Scholtus, S.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYear{2011}.
+\newblock
+\APACrefbtitle {Handbook of statistical data editing and imputation} {Handbook
+  of statistical data editing and imputation}\ (\BVOL~563).
+\newblock
+\APACaddressPublisher{}{John Wiley \& Sons}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Gelman%
+\ \protect \BOthers {.}}{%
+Gelman%
+\ \protect \BOthers {.}}{%
+{\protect \APACyear {2013}}%
+}]{%
+gelman2013bayesian}
+\APACinsertmetastar {%
+gelman2013bayesian}%
+\begin{APACrefauthors}%
+Gelman, A.%
+, Carlin, J\BPBI B.%
+, Stern, H\BPBI S.%
+, Dunson, D\BPBI B.%
+, Vehtari, A.%
+\BCBL {}\ \BBA {} Rubin, D\BPBI B.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYear{2013}.
+\newblock
+\APACrefbtitle {Bayesian data analysis} {Bayesian data analysis}.
+\newblock
+\APACaddressPublisher{}{CRC press}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Gelman%
+, King%
+\BCBL {}\ \BBA {} Liu%
+}{%
+Gelman%
+\ \protect \BOthers {.}}{%
+{\protect \APACyear {1998}}%
+}]{%
+gelman1998not}
+\APACinsertmetastar {%
+gelman1998not}%
+\begin{APACrefauthors}%
+Gelman, A.%
+, King, G.%
+\BCBL {}\ \BBA {} Liu, C.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{1998}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Not asked and not answered: Multiple imputation for
+  multiple surveys} {Not asked and not answered: Multiple imputation for
+  multiple surveys}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{Journal of the American Statistical
+  Association}{93}{443}{846--857}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Gelman%
+, Van~Mechelen%
+, Verbeke%
+, Heitjan%
+\BCBL {}\ \BBA {} Meulders%
+}{%
+Gelman%
+\ \protect \BOthers {.}}{%
+{\protect \APACyear {2005}}%
+}]{%
+gelman2005multiple}
+\APACinsertmetastar {%
+gelman2005multiple}%
+\begin{APACrefauthors}%
+Gelman, A.%
+, Van~Mechelen, I.%
+, Verbeke, G.%
+, Heitjan, D\BPBI F.%
+\BCBL {}\ \BBA {} Meulders, M.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2005}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Multiple imputation for model checking: completed-data
+  plots with missing and latent data} {Multiple imputation for model checking:
+  completed-data plots with missing and latent data}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{Biometrics}{61}{1}{74--85}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+He%
+\ \BBA {} Zaslavsky%
+}{%
+He%
+\ \BBA {} Zaslavsky%
+}{%
+{\protect \APACyear {2012}}%
+}]{%
+he2012diagnosing}
+\APACinsertmetastar {%
+he2012diagnosing}%
+\begin{APACrefauthors}%
+He, Y.%
+\BCBT {}\ \BBA {} Zaslavsky, A\BPBI M.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2012}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Diagnosing imputation models by applying target analyses
+  to posterior replicates of completed data} {Diagnosing imputation models by
+  applying target analyses to posterior replicates of completed data}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{Statistics in medicine}{31}{1}{1--18}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Heeringa%
+}{%
+Heeringa%
+}{%
+{\protect \APACyear {2001}}%
+}]{%
+heeringa2001multivariate}
+\APACinsertmetastar {%
+heeringa2001multivariate}%
+\begin{APACrefauthors}%
+Heeringa, S\BPBI G.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2001}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Multivariate imputation of coarsened survey data on
+  household wealth.} {Multivariate imputation of coarsened survey data on
+  household wealth.}{\BBCQ}
+\newblock
+
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Hoogland%
+\ \protect \BOthers {.}}{%
+Hoogland%
+\ \protect \BOthers {.}}{%
+{\protect \APACyear {2020}}%
+}]{%
+hoogland2020handling}
+\APACinsertmetastar {%
+hoogland2020handling}%
+\begin{APACrefauthors}%
+Hoogland, J.%
+, van Barreveld, M.%
+, Debray, T\BPBI P.%
+, Reitsma, J\BPBI B.%
+, Verstraelen, T\BPBI E.%
+, Dijkgraaf, M\BPBI G.%
+\BCBL {}\ \BBA {} Zwinderman, A\BPBI H.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2020}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Handling missing predictor values when validating and
+  applying a prediction model to new patients} {Handling missing predictor
+  values when validating and applying a prediction model to new
+  patients}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{Statistics in medicine}{39}{25}{3591--3607}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Krul%
+, Daanen%
+\BCBL {}\ \BBA {} Choi%
+}{%
+Krul%
+\ \protect \BOthers {.}}{%
+{\protect \APACyear {2011}}%
+}]{%
+krul2011self}
+\APACinsertmetastar {%
+krul2011self}%
+\begin{APACrefauthors}%
+Krul, A\BPBI J.%
+, Daanen, H\BPBI A.%
+\BCBL {}\ \BBA {} Choi, H.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2011}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Self-reported and measured weight, height and body mass
+  index (BMI) in Italy, the Netherlands and North America} {Self-reported and
+  measured weight, height and body mass index (bmi) in italy, the netherlands
+  and north america}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{The European Journal of Public
+  Health}{21}{4}{414--419}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Little%
+}{%
+Little%
+}{%
+{\protect \APACyear {1988}}%
+}]{%
+Little1988}
+\APACinsertmetastar {%
+Little1988}%
+\begin{APACrefauthors}%
+Little, R\BPBI J\BPBI A.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{1988}{jul}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Missing-Data Adjustments in Large Surveys} {Missing-data
+  adjustments in large surveys}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{Journal of Business {\&} Economic
+  Statistics}{6}{3}{287--296}.
+\newblock
+\begin{APACrefDOI} \doi{10.1080/07350015.1988.10509663} \end{APACrefDOI}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Meng%
+}{%
+Meng%
+}{%
+{\protect \APACyear {1994}}%
+}]{%
+meng1994multiple}
+\APACinsertmetastar {%
+meng1994multiple}%
+\begin{APACrefauthors}%
+Meng, X\BHBI L.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{1994}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Multiple-imputation inferences with uncongenial sources
+  of input} {Multiple-imputation inferences with uncongenial sources of
+  input}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{Statistical Science}{}{}{538--558}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Nguyen%
+, Carlin%
+\BCBL {}\ \BBA {} Lee%
+}{%
+Nguyen%
+\ \protect \BOthers {.}}{%
+{\protect \APACyear {2017}}%
+}]{%
+nguyen2017model}
+\APACinsertmetastar {%
+nguyen2017model}%
+\begin{APACrefauthors}%
+Nguyen, C\BPBI D.%
+, Carlin, J\BPBI B.%
+\BCBL {}\ \BBA {} Lee, K\BPBI J.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2017}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Model checking in multiple imputation: an overview and
+  case study} {Model checking in multiple imputation: an overview and case
+  study}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{Emerging themes in epidemiology}{14}{1}{8}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Nguyen%
+, Lee%
+\BCBL {}\ \BBA {} Carlin%
+}{%
+Nguyen%
+\ \protect \BOthers {.}}{%
+{\protect \APACyear {2015}}%
+}]{%
+nguyen2015posterior}
+\APACinsertmetastar {%
+nguyen2015posterior}%
+\begin{APACrefauthors}%
+Nguyen, C\BPBI D.%
+, Lee, K\BPBI J.%
+\BCBL {}\ \BBA {} Carlin, J\BPBI B.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2015}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Posterior predictive checking of multiple imputation
+  models} {Posterior predictive checking of multiple imputation models}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{Biometrical Journal}{57}{4}{676--694}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Rubin%
+}{%
+Rubin%
+}{%
+{\protect \APACyear {1987}}%
+}]{%
+RubinD1987}
+\APACinsertmetastar {%
+RubinD1987}%
+\begin{APACrefauthors}%
+Rubin, D\BPBI B.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYear{1987}.
+\newblock
+\APACrefbtitle {Multiple Imputation for Nonresponse in Surveys} {Multiple
+  imputation for nonresponse in surveys}.
+\newblock
+\APACaddressPublisher{New York}{John Wiley and Sons}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Schouten%
+, Lugtig%
+\BCBL {}\ \BBA {} Vink%
+}{%
+Schouten%
+\ \protect \BOthers {.}}{%
+{\protect \APACyear {2018}}%
+}]{%
+Schouten2018}
+\APACinsertmetastar {%
+Schouten2018}%
+\begin{APACrefauthors}%
+Schouten, R\BPBI M.%
+, Lugtig, P.%
+\BCBL {}\ \BBA {} Vink, G.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2018}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Generating missing values for simulation purposes: a
+  multivariate amputation procedure} {Generating missing values for simulation
+  purposes: a multivariate amputation procedure}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{Journal of Statistical Computation and
+  Simulation}{88}{15}{2909--2930}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Siddique%
+\ \BBA {} Belin%
+}{%
+Siddique%
+\ \BBA {} Belin%
+}{%
+{\protect \APACyear {2008}}%
+}]{%
+siddique2008multiple}
+\APACinsertmetastar {%
+siddique2008multiple}%
+\begin{APACrefauthors}%
+Siddique, J.%
+\BCBT {}\ \BBA {} Belin, T\BPBI R.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2008}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Multiple imputation using an iterative hot-deck with
+  distance-based donor selection} {Multiple imputation using an iterative
+  hot-deck with distance-based donor selection}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{Statistics in medicine}{27}{1}{83--102}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Su%
+, Gelman%
+, Hill%
+\BCBL {}\ \BBA {} Yajima%
+}{%
+Su%
+\ \protect \BOthers {.}}{%
+{\protect \APACyear {2011}}%
+}]{%
+su2011multiple}
+\APACinsertmetastar {%
+su2011multiple}%
+\begin{APACrefauthors}%
+Su, Y\BHBI S.%
+, Gelman, A\BPBI E.%
+, Hill, J.%
+\BCBL {}\ \BBA {} Yajima, M.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2011}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Multiple imputation with diagnostics (mi) in R: Opening
+  windows into the black box} {Multiple imputation with diagnostics (mi) in r:
+  Opening windows into the black box}.{\BBCQ}
+\newblock
+
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Van~Buuren%
+}{%
+Van~Buuren%
+}{%
+{\protect \APACyear {2007}}%
+}]{%
+van2007multiple}
+\APACinsertmetastar {%
+van2007multiple}%
+\begin{APACrefauthors}%
+Van~Buuren, S.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2007}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Multiple imputation of discrete and continuous data by
+  fully conditional specification} {Multiple imputation of discrete and
+  continuous data by fully conditional specification}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{Statistical methods in medical
+  research}{16}{3}{219--242}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+van Buuren%
+}{%
+van Buuren%
+}{%
+{\protect \APACyear {2018}}%
+}]{%
+Buuren2018}
+\APACinsertmetastar {%
+Buuren2018}%
+\begin{APACrefauthors}%
+van Buuren, S.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYear{2018}.
+\newblock
+\APACrefbtitle {Flexible Imputation of Missing Data, Second Edition} {Flexible
+  imputation of missing data, second edition}.
+\newblock
+\APACaddressPublisher{}{Chapman and Hall/{CRC}}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Van~Buuren%
+\ \BBA {} Groothuis-Oudshoorn%
+}{%
+Van~Buuren%
+\ \BBA {} Groothuis-Oudshoorn%
+}{%
+{\protect \APACyear {2011}}%
+}]{%
+van2011mice}
+\APACinsertmetastar {%
+van2011mice}%
+\begin{APACrefauthors}%
+Van~Buuren, S.%
+\BCBT {}\ \BBA {} Groothuis-Oudshoorn, K.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2011}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {mice: Multivariate imputation by chained equations in R}
+  {mice: Multivariate imputation by chained equations in r}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{Journal of statistical software}{45}{1}{1--67}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Vink%
+, Frank%
+, Pannekoek%
+\BCBL {}\ \BBA {} Van~Buuren%
+}{%
+Vink%
+\ \protect \BOthers {.}}{%
+{\protect \APACyear {2014}}%
+}]{%
+vink2014predictive}
+\APACinsertmetastar {%
+vink2014predictive}%
+\begin{APACrefauthors}%
+Vink, G.%
+, Frank, L\BPBI E.%
+, Pannekoek, J.%
+\BCBL {}\ \BBA {} Van~Buuren, S.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2014}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Predictive mean matching imputation of semicontinuous
+  variables} {Predictive mean matching imputation of semicontinuous
+  variables}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{Statistica Neerlandica}{68}{1}{61--90}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Vink%
+, Lazendic%
+\BCBL {}\ \BBA {} van Buuren%
+}{%
+Vink%
+\ \protect \BOthers {.}}{%
+{\protect \APACyear {2015}}%
+}]{%
+vink2015partioned}
+\APACinsertmetastar {%
+vink2015partioned}%
+\begin{APACrefauthors}%
+Vink, G.%
+, Lazendic, G.%
+\BCBL {}\ \BBA {} van Buuren, S.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2015}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Partioned predictive mean matching as a large data
+  multilevel imputation technique.} {Partioned predictive mean matching as a
+  large data multilevel imputation technique.}{\BBCQ}
+\newblock
+\APACjournalVolNumPages{Psychological Test and Assessment
+  Modeling}{57}{4}{577--594}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Vink%
+\ \BBA {} van Buuren%
+}{%
+Vink%
+\ \BBA {} van Buuren%
+}{%
+{\protect \APACyear {2013}}%
+}]{%
+Vink2013}
+\APACinsertmetastar {%
+Vink2013}%
+\begin{APACrefauthors}%
+Vink, G.%
+\BCBT {}\ \BBA {} van Buuren, S.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2013}{sep}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Multiple Imputation of Squared Terms} {Multiple
+  imputation of squared terms}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{Sociological Methods {\&} Research}{42}{4}{598--607}.
+\newblock
+\begin{APACrefDOI} \doi{10.1177/0049124113502943} \end{APACrefDOI}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Volker%
+\ \BBA {} Vink%
+}{%
+Volker%
+\ \BBA {} Vink%
+}{%
+{\protect \APACyear {2021}}%
+}]{%
+volker2021anonymiced}
+\APACinsertmetastar {%
+volker2021anonymiced}%
+\begin{APACrefauthors}%
+Volker, T\BPBI B.%
+\BCBT {}\ \BBA {} Vink, G.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2021}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Anonymiced Shareable Data: Using mice to Create and
+  Analyze Multiply Imputed Synthetic Datasets} {Anonymiced shareable data:
+  Using mice to create and analyze multiply imputed synthetic datasets}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{Psych}{3}{4}{703--716}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+White%
+, Royston%
+\BCBL {}\ \BBA {} Wood%
+}{%
+White%
+\ \protect \BOthers {.}}{%
+{\protect \APACyear {2011}}%
+}]{%
+white2011multiple}
+\APACinsertmetastar {%
+white2011multiple}%
+\begin{APACrefauthors}%
+White, I\BPBI R.%
+, Royston, P.%
+\BCBL {}\ \BBA {} Wood, A\BPBI M.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2011}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Multiple imputation using chained equations: issues and
+  guidance for practice} {Multiple imputation using chained equations: issues
+  and guidance for practice}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{Statistics in medicine}{30}{4}{377--399}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Xie%
+\ \BBA {} Meng%
+}{%
+Xie%
+\ \BBA {} Meng%
+}{%
+{\protect \APACyear {2017}}%
+}]{%
+xie2017dissecting}
+\APACinsertmetastar {%
+xie2017dissecting}%
+\begin{APACrefauthors}%
+Xie, X.%
+\BCBT {}\ \BBA {} Meng, X\BHBI L.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2017}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Dissecting multiple imputation from a multi-phase
+  inference perspective: what happens when God's, imputer's and analyst's
+  models are uncongenial?} {Dissecting multiple imputation from a multi-phase
+  inference perspective: what happens when god's, imputer's and analyst's
+  models are uncongenial?}{\BBCQ}
+\newblock
+\APACjournalVolNumPages{Statistica Sinica}{}{}{1485--1545}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Yu%
+, Burton%
+\BCBL {}\ \BBA {} Rivero-Arias%
+}{%
+Yu%
+\ \protect \BOthers {.}}{%
+{\protect \APACyear {2007}}%
+}]{%
+yu2007evaluation}
+\APACinsertmetastar {%
+yu2007evaluation}%
+\begin{APACrefauthors}%
+Yu, L\BHBI M.%
+, Burton, A.%
+\BCBL {}\ \BBA {} Rivero-Arias, O.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2007}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Evaluation of software for multiple imputation of
+  semi-continuous data} {Evaluation of software for multiple imputation of
+  semi-continuous data}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{Statistical Methods in Medical
+  Research}{16}{3}{243--258}.
+\PrintBackRefs{\CurrentBib}
+
+\end{thebibliography}
